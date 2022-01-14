@@ -46,7 +46,7 @@
     "@types/async": "3.2.12",
     "@types/autocannon": "4.1.1",
     "@types/express": "4.17.13",
-    "@types/http-errors": "1.8.1",
+    "@types/http-errors": "1.8.2",
     "@types/jest": "27.4.0",
     "@types/lodash": "4.14.178",
     "@types/mime": "2.0.3",
